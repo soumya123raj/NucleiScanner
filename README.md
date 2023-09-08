@@ -38,7 +38,7 @@ Options:
 ```  
 
 ### Steps to Install:
-1. git clone https://github.com/0xKayala/NucleiFuzzer.git
+1. git clone https://github.com/soumya123raj/NucleiScanner
 2. cd NucleiFuzzer
 3. sudo chmod +x install.sh
 4. ./install.sh <br>
